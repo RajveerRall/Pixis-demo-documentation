@@ -1,10 +1,12 @@
-Creative Feed Generator helps you create customizable creative images. These are ad creative images that you use in ad managers across various platforms. The generated creative includes primary image, text, background color, price, etc.
+Creative Feed Generator leverges AI to create ad creatives in bulk. These are ad creative images that you use in ad managers across various platforms. The generated creative includes primary image, text, background color, price, etc.
+
+Feedgenerator can create ad and all the components of the creative are customizable.
 
 ![ad creative breakdown](../assets/creative.png)
 
-The way creative feed generator works is it takes an input file which defines a few ad creatives. It takes these creatives as foundation and generates new creatives based on the given context.
-
 ## The Create Feed Workflow
+
+The way creative feed generator works is it takes an input file which defines a few ad creatives. It takes these creatives as foundation and generates new creatives based on the given context.
 
 ![Alt text](../assets/cfg-workflow.jpg)
 
@@ -34,11 +36,6 @@ Thinking ahead, we provide a scheduling option. Choose between a one-time run or
 
 ![Creative feed generator preview](../assets/output_preview.gif)
 
-
-
-Ad creative can become an integral part of your marketing pipline, once set up you can 
-
-Step into your own shared workspace that allows users to collaborate on projects, run/pause them, check their settings, get quick previews of ones under creation, duplicate or edit existing projects, schedule, and publish them, all from this same workspace. Streamline your workflow and experience effortless and smooth coordination among your team member
 
 
 
