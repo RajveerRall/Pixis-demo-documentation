@@ -1,7 +1,6 @@
 site_name: Docs
 site_url: https://pixis.com
 
-
 nav:
   - Home: 
       - index.md
@@ -15,8 +14,8 @@ nav:
           - Template Configuration: CFG/template_configuration.md
           - Template Review: CFG/template_review.md
         - Schedule & Output Config: CFG/output_file_config.md
-      - Publish: 
-        - Publish Campaigns: publish_ads/publish.md
+      - Publish Campaigns:
+        - Ads Manager: publish_ads/publish.md
       - Smart Insights: smart_insights.md
       - Optimize: optimize.md
       - Analytics: analytics.md
