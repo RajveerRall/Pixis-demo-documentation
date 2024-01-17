@@ -1,0 +1,63 @@
+site_name: Docs
+site_url: https://pixis.com
+
+nav:
+  - Home: 
+      - index.md
+      - Quick Start Guide: 
+        - Input File: quick-start/guide.md
+      - Creative Feed Generator: 
+        - CFG/creative-feed-generator.md
+        - New Project: CFG/create_new_project.md
+        - Template:
+          - Template Selection: CFG/templates.md
+          - Template Configuration: CFG/template_configuration.md
+          - Template Review: CFG/template_review.md
+        - Schedule & Output Config: CFG/output_file_config.md
+      - Publish Campaigns:
+        - Ads Manager: publish_ads/publish.md
+      - Smart Insights: smart_insights.md
+      - Optimize: optimize.md
+      - Analytics: analytics.md
+      - FAQ: faq.md
+  - Release Notes: release-notes.md
+
+theme:
+  logo: assets/logo.svg
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+  font:
+    text: Roboto 300
+
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - tables
+    - attr_list
+    - pymdownx.emoji
+    - md_in_html
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+
+plugins:
+  - search
+  - section-index
+  - mermaid2
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 90%
+      height: auto
+      zoomable: true
+      draggable: true
+
+extra_css:
+  - custom.css
