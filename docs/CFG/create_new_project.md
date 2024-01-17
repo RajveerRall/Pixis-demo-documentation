@@ -27,9 +27,7 @@ After creating the project, you land on configure input file step. Here you can 
 
 ![Configure tempalte](../assets/configure template.gif)
 
-### Steps to Generate Creatives
-
-To generate creatives, follow these steps once you have set up the design sheet and project:
+### Related articles:
 
 1. [Templates](templates.md): Customize the creative output by selecting templates, configuring existing ones, and previewing the generation. You can also request new templates.
 
