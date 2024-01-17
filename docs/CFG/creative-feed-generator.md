@@ -1,38 +1,38 @@
-Creative Feed Generator leverges AI to create ad creatives in bulk. These are ad creative images that you use in ad managers across various platforms. The generated creative includes primary image, text, background color, price, etc.
-
-Feedgenerator can create ad and all the components of the creative are customizable.
+The Creative Feed Generator is an AI-powered tool that enables the creation of ad creatives in bulk. These ad creatives consist of images that are used in ad managers across various platforms. With the Creative Feed Generator, users can generate custom ad creatives that include primary images, text, background colors, prices, and more.
 
 ![ad creative breakdown](../assets/creative.png)
 
 ## The Create Feed Workflow
 
-The way creative feed generator works is it takes an input file which defines a few ad creatives. It takes these creatives as foundation and generates new creatives based on the given context.
+The Creative Feed Generator follows a well-defined workflow to generate ad creatives based on [input file]() you add while [creating a new project](). Here is an overview of the workflow:
 
 ![Alt text](../assets/cfg-workflow.jpg)
 
 ### Configure input file 
 
-Once your input sheet is uploaded, this is where you review and configure it. You'll see the columns, and you can assign user-friendly names to each. It's an essential step in customizing the data according to your preferences.
+The first step is to upload and configure the input file. Users can review the columns and assign user-friendly names to each column, ensuring the data is customized according to their preferences.
 
 ### Select template 
 
-Moving on to template selection, you can choose from existing templates or request a tailor-made one. If you opt for the latter, provide details or upload a reference image. This ensures the output aligns seamlessly with your brand requirements.
+Next, users can choose from a range of existing templates or request a tailor-made template. Tailoring the template allows users to align the output creatives seamlessly with their brand requirements. Users have the option to provide specific details or upload reference images to guide the template creation.
 
 ### Configure template
 
-Now comes the crucial step of configuring the selected template. Define text and images for each layer, and preview the changes. You have the flexibility to adjust configurations according to your preferences.
+Once the template is selected, users can configure the template by defining text and images for each layer. This step provides flexibility in adjusting configurations to meet specific preferences. Users can preview the changes made to the template before proceeding.
 
 ![Ad creative template](../assets/ad_templates.png)
 
 ### Template selection review 
 
-With the template configured, it's time to generate a preview of the output. Review the results, and if needed, eliminate any undesired outputs. This step allows you to fine-tune the final output before moving forward.
+After configuring the template, users can generate a preview of the output creatives. This preview allows users to review the results and eliminate any undesired outputs, ensuring the final output meets their expectations.
 
 ### Schedule run & output configuration
 
-Thinking ahead, we provide a scheduling option. Choose between a one-time run or recurring runs based on your preferences. This functionality seamlessly integrates with your ads manager, offering flexibility in content delivery.
+The Creative Feed Generator provides scheduling options for generating the output creatives. Users can choose between one-time runs or recurring runs based on their preferences. This flexibility enables seamless integration with ads managers and offers control over content delivery.
 
 ### Output file
+
+Once the feed generation process is completed, users can access the output file. The output file contains the generated ad creatives, ready for use in ads managers. Users can preview the output and make any necessary adjustments before utilizing the creatives in their ad campaigns.
 
 ![Creative feed generator preview](../assets/output_preview.gif)
 
