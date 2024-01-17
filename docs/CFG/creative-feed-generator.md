@@ -10,25 +10,25 @@ The Creative Feed Generator follows a well-defined workflow to generate ad creat
 
 ### Configure input file 
 
-The first step is to upload and configure the input file. Users can review the columns and assign user-friendly names to each column, ensuring the data is customized according to their preferences.
+The first step is to upload and configure the input file. Users can review the columns and assign user-friendly names to each column, ensuring the data is customized according to their preferences. To learn more, see [Create New Project](CFG/create_new_project.md).
 
 ### Select template 
 
-Next, users can choose from a range of existing templates or request a tailor-made template. Tailoring the template allows users to align the output creatives seamlessly with their brand requirements. Users have the option to provide specific details or upload reference images to guide the template creation.
+Next, users can choose from a range of existing templates or request a tailor-made template. Tailoring the template allows users to align the output creatives seamlessly with their brand requirements. Users have the option to provide specific details or upload reference images to guide the template creation. To learn more, see [Select templates](CFG/templates.md).
 
 ### Configure template
 
-Once the template is selected, users can configure the template by defining text and images for each layer. This step provides flexibility in adjusting configurations to meet specific preferences. Users can preview the changes made to the template before proceeding.
+Once the template is selected, users can configure the template by defining text and images for each layer. This step provides flexibility in adjusting configurations to meet specific preferences. Users can preview the changes made to the template before proceeding. To learn more, see [Configure Template](CFG/configure_template.md).
 
 ![Ad creative template](../assets/ad_templates.png)
 
 ### Template selection review 
 
-After configuring the template, users can generate a preview of the output creatives. This preview allows users to review the results and eliminate any undesired outputs, ensuring the final output meets their expectations.
+After configuring the template, users can generate a preview of the output creatives. This preview allows users to review the results and eliminate any undesired outputs, ensuring the final output meets their expectations. To learn more, see [Template Selection Review](CFG/template_review.md).
 
 ### Schedule run & output configuration
 
-The Creative Feed Generator provides scheduling options for generating the output creatives. Users can choose between one-time runs or recurring runs based on their preferences. This flexibility enables seamless integration with ads managers and offers control over content delivery.
+The Creative Feed Generator provides scheduling options for generating the output creatives. Users can choose between one-time runs or recurring runs based on their preferences. This flexibility enables seamless integration with ads managers and offers control over content delivery. To learn more, see [Schedule run & output configuration](CFG/output_file_configuration.md).
 
 ### Output file
 
