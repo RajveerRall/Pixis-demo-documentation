@@ -1,4 +1,4 @@
-To design creatives for your ad campaign, you can create a new project. The core of every project is the creative design sheet integrated into Creative Feed Generator. Based on these design templates, new creatives are generated in bulk.
+To generate a variety of creatives for your ad campaign, start by creating a new project. The foundation for each project is the input file, which integrates into the Creative Feed Generator. By using input files and templates, you can generate many fresh and unique creatives for a diverse and captivating ad campaign.
 
 ## Create a New Project
 

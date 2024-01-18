@@ -5,21 +5,23 @@ nav:
   - Home: 
       - index.md
       - Quick Start Guide: 
-        - Input File: quick-start/guide.md
+        - Onboarding: quick_start/onboarding.md
+        - Creative Design Structure: quick_start/creative_design.md
+        - Input File: quick_start/guide.md
       - Creative Feed Generator: 
-        - CFG/creative-feed-generator.md
+        - CFG/creative_feed_generator.md
         - New Project: CFG/create_new_project.md
         - Template:
           - Template Selection: CFG/templates.md
-          - Template Configuration: CFG/template_configuration.md
-          - Template Review: CFG/template_review.md
+          - Template Config & Review: CFG/template_configuration.md
         - Schedule & Output Config: CFG/output_file_config.md
+        - Project Manager: CFG/project_manager.md
       - Publish Campaigns:
         - Ads Manager: publish_ads/publish.md
       - Smart Insights: smart_insights.md
       - Optimize: optimize.md
       - Analytics: analytics.md
-      - FAQ: faq.md
+      - FAQs: faq.md
   - Release Notes: release-notes.md
 
 theme:

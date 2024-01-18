@@ -1,4 +1,4 @@
-Templates are creatives we have designed based given requirenments. These tempates come default within the project. Different templates offer different layout styles & structure. You can select these templates and customize using the input file based on your needs.
+Our platform offers a range of customizable templates designed to create visually appealing ad creatives. These templates serve as a starting point and can be tailored to align with your brand guidelines. With a variety of layout styles and structures, you can choose a template and use the input file to personalize it according to your specific requirements. Additionally, if you need specific templates that are not available, you can request them to be created.
 
 ### Filter & Select Template
 
@@ -21,6 +21,6 @@ You can request a custom template based on your specific requirements. Simply pr
 
 ### Related articles:
 
-Template configuration: 
+[Template configuration](template_configuration.md): Allows users to customize and tailor their creative elements for various purposes.
 
-File input: 
+[File input](../quick_start/guide.md): Learn how to create and format the input file for the Creative Feed Generator.
