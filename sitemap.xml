@@ -2,72 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pixis.com/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/analytics/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/faq/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/optimize/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/release-notes/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/smart_insights/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/CFG/create_new_project/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pixis.com/CFG/creative-feed-generator/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <loc>https://pixis.com/CFG/creative_feed_generator/</loc>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/CFG/output_file_config/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pixis.com/CFG/project_manager/</loc>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/CFG/template_configuration/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/CFG/template_review/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/CFG/templates/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pixis.com/publish_ads/publish/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pixis.com/quick-start/guide/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <loc>https://pixis.com/quick_start/creative_design/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pixis.com/quick_start/guide/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pixis.com/quick_start/onboarding/</loc>
+         <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
