@@ -27,6 +27,7 @@ After creating the project, you land on configure input file step. Here you can 
 
 ![Configure tempalte](../assets/configure template.gif)
 
+---
 ### Related articles:
 
 1. [Templates](templates.md): Customize the creative output by selecting templates, configuring existing ones, and previewing the generation. You can also request new templates.

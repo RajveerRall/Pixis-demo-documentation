@@ -51,6 +51,7 @@ Once the feed generation process is completed, users can access the output file.
 
 ![Creative feed generator preview](../assets/output_preview.gif)
 
+---
 ### Relates articles:
 
 [Product Manager](project_manager.md): Access and manage your projects efficiently with the Product Manager.

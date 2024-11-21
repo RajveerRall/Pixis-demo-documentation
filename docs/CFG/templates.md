@@ -18,7 +18,7 @@ You can request a custom template based on your specific requirements. Simply pr
 
 ![Template selection](../assets/request_template.gif) 
 
-
+---
 ### Related articles:
 
 [Template configuration](template_configuration.md): Allows users to customize and tailor their creative elements for various purposes.

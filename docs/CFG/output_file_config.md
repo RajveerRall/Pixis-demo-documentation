@@ -25,6 +25,7 @@ To stay updated on project activities, you have the option to set up email notif
 
 ![Email Notification](../assets/email_notification.gif)
 
+---
 ### Related articles:
 
 [Project Manager](project_manager.md): Access and manage your projects efficiently with the Product Manager.

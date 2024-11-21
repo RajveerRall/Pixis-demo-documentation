@@ -53,6 +53,7 @@ Before scheduling the creative generation process, it's crucial to review the en
 
 ![Template Review](../assets/review_template.png)
 
+---
 ### Relates articles:
 
 [Schedule & Configure Outputs](output_file_config.md): This section explains how to schedule the generation of output files and configure the columns and names in the output file and setup notification.
